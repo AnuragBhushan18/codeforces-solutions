@@ -1,0 +1,15 @@
+*.clas# Java compiled files
+*.class
+
+# VS Code
+.vscode/
+
+# Java build/output folders
+bin/
+out/
+target/
+
+# Eclipse
+.settings/
+.project
+.classpath
